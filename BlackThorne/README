@@ -1,0 +1,6 @@
+This script is my first try.
+
+It hunts down open syscalls for Blizzard game BlackThorne.
+
+More info how to write dtrace scripts can be found:
+http://dtrace.org/blogs/brendan/2011/02/11/dtrace-pid-provider-arguments/
